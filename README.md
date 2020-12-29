@@ -103,7 +103,6 @@ sudo apt-get update && sudo apt-get install espeak
   <li><h2> Email is sent successfully, Sir</h2></li>
   <li><h2> Search Youtube</h2></li>
   <li><h2>What you want to search, Sir</h2></li>
-  <li><h2>Coding for kids</h2></li>
   <li><h2> Opens youtube in browser with desired search query results </h2></li>
   
-   Enjoy This Freely!!
+   Enjoy This Freely!! :) 

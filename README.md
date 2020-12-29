@@ -2,10 +2,10 @@
 
 ## JARVIS with Python
 
-[![GitHub issues](https://img.shields.io/github/issues/ashish4626/J.A.R.V.I.S)](https://github.com/ashish4626/JARVIS/issues)
-[![GitHub forks](https://img.shields.io/github/forks/ashish4626/J.A.R.V.I.S)](https://github.com/ashish4626/JARVIS/network)
-[![GitHub stars](https://img.shields.io/github/stars/ashish4626/J.A.R.V.I.S)](https://github.com/ashish4626/JARVIS/stargazers)
-[![GitHub license](https://img.shields.io/github/license/ashish4626/J.A.R.V.I.S)](https://github.com/ashish4626/JARVIS/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/ashish4626/JARVIS)](https://github.com/ashish4626/JARVIS/issues)
+[![GitHub forks](https://img.shields.io/github/forks/ashish4626/JARVIS)](https://github.com/ashish4626/JARVIS/network)
+[![GitHub stars](https://img.shields.io/github/stars/ashish4626/JARVIS)](https://github.com/ashish4626/JARVIS/stargazers)
+[![GitHub license](https://img.shields.io/github/license/ashish4626/JARVIS)](https://github.com/ashish4626/JARVIS/blob/master/LICENSE)
 
 <img src="jarvis1.jpg"/>
 
@@ -40,6 +40,13 @@ pip3 install wikipedia
 pip install psutil
 pip install pyjokes
 
+
+
+```
+## If Error Occured to install PyAudio then try the following commands
+```
+pip install pipwin
+pipwin install pyaudio
 
 ```
 
@@ -92,13 +99,11 @@ sudo apt-get update && sudo apt-get install espeak
   <li><h2> Jarvis, What are today's news headlines? can you tell?</h2></li>
   <li><h2>Ofcourse, Sir -> Then news headlines   Would you like to visit the news url?</h2></li>
   
+  <li><h2> Jarvis, Can you send email to Ashish Mishra?</h2></li>
+  <li><h2> Email is sent successfully, Sir</h2></li>
   <li><h2> Search Youtube</h2></li>
   <li><h2>What you want to search, Sir</h2></li>
   <li><h2>Coding for kids</h2></li>
   <li><h2> Opens youtube in browser with desired search query results </h2></li>
   
-   <li><h2> Jarvis, Can you send email to Ashish Mishra?</h2></li>
-  <li><h2>What I say sir, Sir</h2></li>
-   <li><h2>Ashish Mishra is a good boy</h2></li>
-  <li><h2> Email is sent successfully, Sir</h2></li>
- 
+   Enjoy This Freely!!

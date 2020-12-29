@@ -81,16 +81,10 @@ sudo apt-get update && sudo apt-get install espeak
     <td><img src="images/Screenshot%20(138).png"/></td>
 
 </tr>
-<tr>
-<td><img src="images/email.jpg"/></td>
 
-<td><img src="images/location.png"/></td>
-</tr>
-<td><img src="images/pytube.png"/></td>
-</tr>
 </table>
 
-## Some Sneak peeks:
+## Demo How it works:
 
 <ul>
   <li><h2> Jarvis, Are you there?</h2></li>
